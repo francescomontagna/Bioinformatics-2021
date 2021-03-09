@@ -1,0 +1,13 @@
+**/__pycache__
+**/.idea
+env_setup_win10.pdf
+*.fa
+*.fq
+*.gtf
+*.sam
+*.pkl
+*.csv
+**/meth.txt
+**/mRNA.txt
+**/prot.txt
+**/miRNA.txt

@@ -1,0 +1,5 @@
+# TODO da videolezioni o dal drive, trovo risposte
+
+
+- Gli altri come hanno aperto e soprattutto come hanno fatto il parsing dei file?
+In particolare, la domanda è relativa a GTF file

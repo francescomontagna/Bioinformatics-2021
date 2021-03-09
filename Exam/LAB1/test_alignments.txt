@@ -1,0 +1,8 @@
+read_id alignement reference_position
+read_0 CAG 2
+read_1 TTT 4
+read_2 GCA 7
+read_3 ATT 5
+read_4 TTC 5
+read_5 ATA 6
+read_6 AAG 0

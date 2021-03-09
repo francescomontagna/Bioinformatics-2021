@@ -1,0 +1,4 @@
+Gene5p	chr5p	breakpoint5p	strand5p	Gene3p	chr3p	breakpoint3p	strand3p
+ABL1	10	15566488	+	PACX3	18	8666148	+
+PPCHS	18	747292	+	TTTCS	10	7393	-
+CSSP	10	9999845	-	PPAJD	10	6628	-
